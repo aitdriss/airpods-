@@ -1,0 +1,196 @@
+body{
+    background-color: black;
+    transition: 0.9s;
+}
+
+.n1{
+    color: rgba(255, 255, 255, 0.0);
+}
+.n2{
+    color: white;
+    position: relative;
+    left: 10px;
+    bottom:40px;
+    cursor: pointer;
+    transition: 0.3s;
+    
+
+}
+.n2:hover{
+    transform: scale(1.01);
+    color: rgb(192, 162, 219);
+}
+
+.n3{
+    color: white;
+    position: relative;
+    left:200px;
+    bottom: 77px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.n3:hover{
+    transform: scale(1.01);
+    color:rgb(192, 162, 219);
+}
+
+
+.n4{
+    color: white;
+    position: relative;
+    left: 410px;
+    bottom:115px;
+    cursor: pointer;
+    transition: 0.3s;
+
+}
+.n4:hover{
+    transform: scale(1.01);
+    color:rgb(192, 162, 219);
+}
+
+.n5{
+    color: white;
+    position: relative;
+    left: 610px;
+    bottom:152px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.n5:hover{
+    transform: scale(1.01);
+    color: rgb(192, 162, 219);
+}
+.air{
+    color: white;
+    position:relative;
+    left: 197px;
+    bottom:100px;
+    font-size: 30px;
+    cursor: pointer;
+    transition: 0.6s;
+}
+.air:hover{
+    color: rgb(214, 93, 93);
+}
+
+.ktb{
+    color:white;
+    position:relative;
+    left: 220px;
+    bottom:130px;
+    font-size: 17px;
+    cursor: pointer;
+    transition: 0.6s;
+}
+.ktb:hover{
+    color: rgb(214, 106, 106);
+}
+
+.ns{
+    color: rgb(255, 254, 254);
+    position: relative;
+    left:220px;
+    bottom:70px;
+    font-size: 13px;
+    cursor: pointer;
+    transition: 0.6s;
+}
+.ns:hover{
+    color: rgb(214, 106, 106);
+}
+
+.img{
+    position: relative;
+    left: 550px;
+    bottom:400px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.img:hover{
+    transform: scale(1.04);
+}
+
+
+.butt{
+    position: relative;
+    bottom:1000px;
+    right: 810px;
+    background-color: white;
+    border: none;
+    padding: 12px 12px;
+    font-size: 16px;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+.butt:hover{
+    color: rgb(182, 21, 134);
+    transform:scale(1.05);
+}
+.but2{
+    position:relative;
+    bottom: 1000px;
+    right: 760px;
+    background-color: white;
+    border: none;
+    padding: 12px 12px;
+    font-size: 16px;
+    border-radius: 25px;
+    cursor:pointer;
+    transition: 0.3s ease;
+}
+.but2:hover{
+    color: rgb(21, 182, 74);
+    transform: scale(1.05);
+}
+
+.ser{
+    color: black;
+    position: relative;
+    left: 890px;
+    bottom:195px ;
+    border: none;
+    padding: 6px 50px;
+    font-style: oblique;
+    border-radius: 22px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.ser:hover{
+    transform: scale(1.04);
+}
+
+.but3{
+    background-color: rgb(255, 206, 247);
+    position: relative;
+    left: 900px;
+    bottom: 195px;
+    border: none;
+    padding: 6px 17px;
+    border-radius: 20px;
+    font-style: oblique;
+    cursor:pointer;
+    transition: 0.3s;
+}
+
+.but3:hover{
+    transform:scale(1.1);
+}
+
+.tt2{
+    background-color: skyblue;
+    position: relative;
+    left: 915px;
+    bottom: 195px;
+    border: none;
+    padding: 6px 17px;
+    border-radius: 20px;
+    font-style: oblique;
+    cursor:pointer;
+    transition: 0.3s;
+}
+.tt2:hover{
+    transform:scale(1.1);
+}
